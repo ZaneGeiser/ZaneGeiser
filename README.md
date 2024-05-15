@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @ZaneGeiser
-- 👀 I’m interested in web development and backend development
-- 🌱 I’m currently learning Django
-- 💼 I’m looking for Sydney based employment as a Junior Software Developer
-- 🤓 My coding skills include Python, Java/JS, VBA, HTML, CSS, Django, Heroku, Git, and more
+- 💼 working for Red Arc building software for good
 - 📫 Reach me at zanegeiser@gmail.com
 
 <!---
